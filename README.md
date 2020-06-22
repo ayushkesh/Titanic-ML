@@ -13,7 +13,7 @@ _• Support Vector Classification_<br/>
 _• Adaboost_<br/>
 _• Gradient boost_<br/>
 _• XGB Classifier_<br/>
-
+Overall Random Forest Classification gives cross validation score of 86%
 
 
 
